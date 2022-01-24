@@ -70,7 +70,7 @@ and any other dependencies via pip
 
 Guidelines to run tests locally:
 
-Navigate to the tests folder in the cmd prompt or terminal i.e. cd Desktop\DemoQ_UAT\tests\features
+Navigate to the features folder in the cmd prompt or terminal i.e. cd <localpath>\demoqa\tests\features
 
 Run single scenario: behave authentication.feature -n 'Verify user authentication'
 
